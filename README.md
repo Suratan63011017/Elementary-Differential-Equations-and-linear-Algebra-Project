@@ -1,4 +1,4 @@
-# LinearAlgebraProject
+# LinearAlgebraProject 📈
 
 โปรเจคนี้เป็นส่วนหนึ่งของวิชา ELEMENTARY DIFFERENTIAL EQUATIONS AND LINEAR ALGEBRA 01076032
 
