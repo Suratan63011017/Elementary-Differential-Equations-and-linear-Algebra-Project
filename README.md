@@ -17,3 +17,11 @@
 63011018 สุรพัศ วงศ์ประไพพักตร์
 
 ------------------------------
+
+เป็นโปรเจคเกี่ยวกับ Data Science ที่เน้นไปทางการทำ Data Visualization 
+
+ทำโดยภาษา python และส่วนเสริมสำคัญทั้ง numpy, seaborn, pandas, sklearn 
+
+ทำเรื่อง disease(โรคเบาหวาน) โดยมีแหล่งที่มาข้อมูลจาก https://www.kaggle.com/johndasilva/diabetes
+
+------------------------------
