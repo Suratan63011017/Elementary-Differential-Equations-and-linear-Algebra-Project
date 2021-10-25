@@ -9,26 +9,20 @@
 <p align="center">
 จัดทำโดย
 </p>
-<p align="center">
+
 63010791 ยงยุทธ์ แก้วดวงน้อย
-</p>
-<p align="center">
+
 63010852 วรวิชญ์ ธรรมารักษ์วัฒนะ
-</p>
-<p align="center">
+
 63011017 สุรธันย์ บุญผ่อง
-</p>
-<p align="center">
+
 63011018 สุรพัศ วงศ์ประไพพักตร์
-</p>
-
-
 
 ------------------------------
 
 เป็นโปรเจคเกี่ยวกับ Data Science ที่เน้นไปทางการทำ Data Visualization 
 
-ทำโดยภาษา python และส่วนเสริมสำคัญทั้ง numpy, seaborn, pandas, sklearn 
+ทำโดยภาษา python และส่วนเสริมสำคัญทั้ง numpy, seaborn, pandas, sklearn ฯลฯ
 
 ทำเรื่อง disease(โรคเบาหวาน) โดยมีแหล่งที่มาข้อมูลจาก https://www.kaggle.com/johndasilva/diabetes
 
