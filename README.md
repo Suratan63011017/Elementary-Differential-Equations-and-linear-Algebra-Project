@@ -1,4 +1,4 @@
-# ELEMENTARY DIFFERENTIAL EQUATIONS AND LINEAR ALGEBRA PROJECT 📈
+# Elementary Differential Equations And Linear Algebra Project 📈
 
 โปรเจคนี้เป็นส่วนหนึ่งของวิชา ELEMENTARY DIFFERENTIAL EQUATIONS AND LINEAR ALGEBRA 01076032
 
